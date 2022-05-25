@@ -1,0 +1,23 @@
+h1{
+    color: cadetblue;
+    text-align: center;
+}
+#disc{
+    font-size: 50px;
+    color:darkcyan;
+}
+#est_prof{
+    font-size: 40px;
+    color: darkgray;
+}
+#place{
+    column-count: 3;
+    column-width: 10px;
+    column-gap: 10px;
+}
+table{
+    border-collapse: collapse;
+}
+td{
+    padding: 3px;
+}
